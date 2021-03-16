@@ -117,4 +117,4 @@ steps:
 
     artifact: 'buildArtifacts'
 
-publishLocation: 'pipeline'
+    publishLocation: 'pipeline'
